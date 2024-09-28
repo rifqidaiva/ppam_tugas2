@@ -1,4 +1,8 @@
-# ppam_tugas1
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/6582dd79-904a-4955-aead-b25c02cdcbd7">
+</p>
+
+# ppam_tugas2
 
 Oleh: Rifqi Daiva Tri Nandhika (124220131)
 
